@@ -62,7 +62,7 @@ export default async function Home() {
       title: "ROS2 Simulation Environment",
       description: "Custom Gazebo simulation environment for testing robotic algorithms and sensors.",
       category: "ros2",
-      image: "/placeholder.svg?height=300&width=500",
+      image: "/profile_photo.jpg",
       github: "https://github.com",
       createdAt: new Date().toISOString(),
     },
@@ -473,7 +473,7 @@ export default async function Home() {
                     </div>
                     <div>
                       <h4 className="font-medium">LinkedIn</h4>
-                      <p className="text-muted-foreground">linkedin.com/in/gourishankar</p>
+                      <p className="text-muted-foreground">https://www.linkedin.com/in/gouri-shankar-s-s-629748257/</p>
                     </div>
                   </div>
 
