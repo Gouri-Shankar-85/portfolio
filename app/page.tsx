@@ -180,7 +180,7 @@ export default async function Home() {
               <div className="absolute inset-0 rounded-full bg-gradient-to-br from-teal-500 to-purple-700 opacity-20 blur-3xl"></div>
               <div className="relative h-full w-full rounded-full border-2 border-border overflow-hidden">
                 <Image
-                  src="/placeholder.svg?height=400&width=400"
+                  src="/profile_photo.jpg"
                   alt="Gouri Shankar"
                   fill
                   className="object-cover"
