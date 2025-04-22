@@ -163,7 +163,7 @@ export default async function Home() {
                   <span className="sr-only">GitHub</span>
                 </Link>
                 <Link
-                  href="https://linkedin.com"
+                  href="https://www.linkedin.com/in/gouri-shankar-s-s-629748257/"
                   target="_blank"
                   className="text-muted-foreground hover:text-foreground"
                 >
