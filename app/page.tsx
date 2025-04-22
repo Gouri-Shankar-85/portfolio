@@ -158,7 +158,7 @@ export default async function Home() {
                 </Button>
               </div>
               <div className="flex gap-4 pt-4">
-                <Link href="https://github.com" target="_blank" className="text-muted-foreground hover:text-foreground">
+                <Link href="https://github.com/Gouri-Shankar-85" target="_blank" className="text-muted-foreground hover:text-foreground">
                   <Github className="h-6 w-6" />
                   <span className="sr-only">GitHub</span>
                 </Link>
@@ -170,7 +170,7 @@ export default async function Home() {
                   <Linkedin className="h-6 w-6" />
                   <span className="sr-only">LinkedIn</span>
                 </Link>
-                <Link href="mailto:contact@gourishankar.com" className="text-muted-foreground hover:text-foreground">
+                <Link href="mailto:sskzm5585@gmail.com" className="text-muted-foreground hover:text-foreground">
                   <Mail className="h-6 w-6" />
                   <span className="sr-only">Email</span>
                 </Link>
@@ -213,8 +213,8 @@ export default async function Home() {
                 </CardHeader>
                 <CardContent className="space-y-4">
                   <div>
-                    <h3 className="font-semibold">Robotics Engineering</h3>
-                    <p className="text-sm text-muted-foreground">University Name, 2018-2022</p>
+                    <h3 className="font-semibold">Electrical and Electronics Engineering</h3>
+                    <p className="text-sm text-muted-foreground">APJ Abdul Kalam Technological University, 2022-2026</p>
                   </div>
                   <div>
                     <h3 className="font-semibold">ROS2 Certification</h3>
@@ -347,21 +347,16 @@ export default async function Home() {
             <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
               {[
                 "ROS2",
-                "C++",
                 "Python",
                 "Embedded Systems",
                 "Arduino",
                 "Raspberry Pi",
-                "MQTT",
                 "Gazebo Simulation",
-                "Computer Vision",
                 "Sensor Integration",
-                "PCB Design",
                 "Robot Navigation",
                 "IoT Protocols",
                 "SLAM",
                 "Motion Planning",
-                "Real-time Systems",
               ].map((skill) => (
                 <div
                   key={skill}
@@ -463,7 +458,7 @@ export default async function Home() {
                     </div>
                     <div>
                       <h4 className="font-medium">Email</h4>
-                      <p className="text-muted-foreground">contact@gourishankar.com</p>
+                      <p className="text-muted-foreground">sskzm5585@gmail.com</p>
                     </div>
                   </div>
 
@@ -483,7 +478,7 @@ export default async function Home() {
                     </div>
                     <div>
                       <h4 className="font-medium">GitHub</h4>
-                      <p className="text-muted-foreground">github.com/gourishankar</p>
+                      <p className="text-muted-foreground">https://github.com/Gouri-Shankar-85</p>
                     </div>
                   </div>
                 </div>
