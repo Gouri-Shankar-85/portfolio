@@ -52,7 +52,7 @@ export default async function Home() {
       title: "Snaptron",
       description: "Pick and Place robotic arm using ROS2",
       category: "robotics",
-      image: "/placeholder.svg?height=300&width=500",
+      image: "/CAD_model.png",
       github: "https://github.com/Gouri-Shankar-85/Snaptron",
       demo: "https://demo.com",
       createdAt: new Date().toISOString(),
@@ -62,8 +62,7 @@ export default async function Home() {
       title: "Vaccum Cleaning Robot",
       description: "Smart vaccum cleaner robot developed for indoor cleaning",
       category: "robotics",
-      image: "/profile_photo.jpg",
-      github: "https://github.com",
+      image: "/cad_model_vaccum.png",
       createdAt: new Date().toISOString(),
     },
     {
@@ -71,8 +70,7 @@ export default async function Home() {
       title: "Fixed Wing UAV",
       description: "Dual motor fixed wign UAV for the Drone Design Challenge",
       category: "CAD",
-      image: "/placeholder.svg?height=300&width=500",
-      github: "https://github.com",
+      image: "/cad_model.png",
       createdAt: new Date().toISOString(),
     },
   ]
