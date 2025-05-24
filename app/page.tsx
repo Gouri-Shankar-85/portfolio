@@ -281,10 +281,12 @@ export default async function Home() {
                   </CardHeader>
                   <CardFooter className="flex justify-between">
                     {project.github && (
-                      <Button variant="outline" size="sm" className="border-border hover:bg-accent">
-                        <Github className="mr-2 h-4 w-4" />
-                        Code
-                      </Button>
+                      <a href={project.github} target="_blank" rel="noopener noreferrer">
+                        <Button variant="outline" size="sm" className="border-border hover:bg-accent">
+                          <Github className="mr-2 h-4 w-4" />
+                          Code
+                        </Button>
+                      </a>
                     )}
                     {project.demo && (
                       <Button size="sm" className="bg-teal-600 hover:bg-teal-700">
