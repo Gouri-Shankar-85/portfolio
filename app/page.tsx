@@ -198,8 +198,8 @@ export default async function Home() {
                     <p className="text-sm text-muted-foreground">APJ Abdul Kalam Technological University, 2022-2026</p>
                   </div>
                   <div>
-                    <h3 className="font-semibold">ROS2 Certification</h3>
-                    <p className="text-sm text-muted-foreground">Open Robotics, 2023</p>
+                    <h3 className="font-semibold">High School</h3>
+                    <p className="text-sm text-muted-foreground">Sainik School Kazhakootam, 2019-2021</p>
                   </div>
                 </CardContent>
               </Card>
@@ -210,12 +210,12 @@ export default async function Home() {
                 </CardHeader>
                 <CardContent className="space-y-4">
                   <div>
-                    <h3 className="font-semibold">Robotics Engineer</h3>
-                    <p className="text-sm text-muted-foreground">Tech Robotics, 2022-Present</p>
+                    <h3 className="font-semibold">Manufacturing Head</h3>
+                    <p className="text-sm text-muted-foreground">Vaccum Cleaner Robot, 2024</p>
                   </div>
                   <div>
-                    <h3 className="font-semibold">IoT Developer</h3>
-                    <p className="text-sm text-muted-foreground">Smart Systems Inc., 2020-2022</p>
+                    <h3 className="font-semibold">Project Committee </h3>
+                    <p className="text-sm text-muted-foreground">IEEE MACE SB, 2023-2024</p>
                   </div>
                 </CardContent>
               </Card>
@@ -226,12 +226,12 @@ export default async function Home() {
                 </CardHeader>
                 <CardContent className="space-y-4">
                   <div>
-                    <h3 className="font-semibold">Open Source Robotics</h3>
-                    <p className="text-sm text-muted-foreground">Active contributor to ROS2 packages</p>
+                    <h3 className="font-semibold">Robotics</h3>
+                    <p className="text-sm text-muted-foreground">ROS2 based hobby projects</p>
                   </div>
                   <div>
-                    <h3 className="font-semibold">Embedded Systems</h3>
-                    <p className="text-sm text-muted-foreground">Developing custom hardware solutions</p>
+                    <h3 className="font-semibold">CAD modelling</h3>
+                    <p className="text-sm text-muted-foreground">Developing custom based innovative designs</p>
                   </div>
                 </CardContent>
               </Card>
