@@ -349,14 +349,12 @@ export default async function Home() {
                 "ROS2",
                 "Python",
                 "Embedded Systems",
-                "Arduino",
                 "Raspberry Pi",
                 "Gazebo Simulation",
-                "Sensor Integration",
-                "Robot Navigation",
+                "Autonomous Navigation",
                 "IoT Protocols",
                 "SLAM",
-                "Motion Planning",
+                "Solidworks",
               ].map((skill) => (
                 <div
                   key={skill}
