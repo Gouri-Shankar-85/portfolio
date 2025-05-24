@@ -42,7 +42,7 @@ export default async function Home() {
       title: "Strider_Bot",
       description: "ROS2-based mobile robot capable of autonomous navigation system with obstacle avoidance and path planning.",
       category: "robotics",
-      image: "/placeholder.svg?height=300&width=500",
+      image: "/Gazebo.png",
       github: "https://github.com/Gouri-Shankar-85/strider_bot",
       demo: "https://demo.com",
       createdAt: new Date().toISOString(),
