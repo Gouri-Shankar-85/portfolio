@@ -133,7 +133,9 @@ export default async function Home() {
                   <ArrowRight className="ml-2 h-4 w-4" />
                 </Button>
                 <Button variant="outline" className="border-border hover:bg-accent">
-                  Download Resume
+                  <a href="/Resume.pdf" download>
+                    Download Resume
+                  </a>
                 </Button>
               </div>
               <div className="flex gap-4 pt-4">
