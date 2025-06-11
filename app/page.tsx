@@ -295,7 +295,7 @@ export default async function Home() {
                       </Button>
                     )}
                     {!project.github && !project.demo && (
-                      <div className="text-sm text-muted-foreground">No links available</div>
+                      <div className="text-sm text-muted-foreground">https://go.screenpal.com/watch/cT1XjhnX2dt</div>
                     )}
                   </CardFooter>
                 </Card>
